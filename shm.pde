@@ -1,3 +1,5 @@
+//Written in processing, https://processing.org/
+
 PVector pos, vel, acc;
 float mass = 100;
 //spring constant
