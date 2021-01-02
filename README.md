@@ -1,5 +1,7 @@
 # processing-sketches
 Some processing sketches I made
 
-![shm1](demo/shm.gif) ![shm2](demo/ellipse.gif)
-![shmnew](demo/shmnew.gif)
+## SHM
+![shm1](demo/shm1.gif)
+If we give some inital velocity in random direction:
+![shm2](demo/shm2.gif)
