@@ -2,8 +2,6 @@
 Some processing sketches I made
 
 ## SHM
-![shm1](demo/shm1.gif)
+Object executing SHM and with some initial velocity tracing elliptical path:
 
-If we give some inital velocity in random direction:
-
-![shm2](demo/shm2.gif)
+![shm1](demo/shm1.gif) ![shm2](demo/shm2.gif)
